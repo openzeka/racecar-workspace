@@ -1,3 +1,12 @@
 [submodule "src/racecar"]
 	path = src/racecar
 	url = https://github.com/MuhsinFatih/racecar.git
+[submodule "src/racecar-controllers"]
+	path = src/racecar-controllers
+	url = https://github.com/MuhsinFatih/racecar-controllers.git
+[submodule "src/racecar-simulator"]
+	path = src/racecar-simulator
+	url = https://github.com/MuhsinFatih/racecar-simulator.git
+[submodule "src/vesc"]
+	path = src/vesc
+	url = https://github.com/mit-racecar/vesc
