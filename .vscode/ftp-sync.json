@@ -1,0 +1,21 @@
+{
+    "remotePath": "/home/muhsinfatih/racecar-ws.oz/racecar.final/racecar-ws/",
+    "host": "ubuntuVM.local",
+    "username": "muhsinfatih",
+    "port": 22,
+    "protocol": "sftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": "/Users/muhsinfatih/.ssh/id_rsa",
+    "passphrase": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "uploadOnSave": false,
+        "extensionsToInclude": [],
+        "path": ""
+    }
+}
